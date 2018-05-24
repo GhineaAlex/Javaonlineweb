@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/implementari/Placadebaza.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/implementari/Memorie.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/AfisareProcesoare.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/Login.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/Crud/CrudSursa.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/lab10/DbConn.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/AfisareHDD.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/implementari/Procesor.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/lab10/Main.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/AfisareMemorii.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/AfisareSurse.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/implementari/HDD.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/ComponentaServlet.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/Crud/CrudHDD.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/implementari/Sursa.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/AfisarePlacidebaza.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/web/index.html</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/implementari/IOUtils.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/Crud/CrudMemorie.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/Crud/Crud.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/web/Componenta.jsp</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/AddComponenta.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/StergeComponenta.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/implementari/Componenta.java</file>
+            <file>file:/C:/Users/Valentin/Documents/NetBeansProjects/WebJavaProject/src/java/servlets/AdaugareComponenta.java</file>
+        </group>
+    </open-files>
+</project-private>

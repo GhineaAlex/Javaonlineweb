@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+        <servlet-mapping>
+            <servlet-name>AfisareHDD</servlet-name>
+            <url-pattern>/AfisareHDD</url-pattern>
+        </servlet-mapping>
+        <servlet-mapping>
+            <servlet-name>AfisareMemorii</servlet-name>
+            <url-pattern>/AfisareMemorii</url-pattern>
+        </servlet-mapping>
+        <servlet-mapping>
+            <servlet-name>AfisarePlacidebaza</servlet-name>
+            <url-pattern>/AfisarePlacidebaza</url-pattern>
+        </servlet-mapping>
+        <servlet-mapping>
+            <servlet-name>AfisareProcesoare</servlet-name>
+            <url-pattern>/AfisareProcesoare</url-pattern>
+        </servlet-mapping>
+        <servlet-mapping>
+            <servlet-name>AfisareSurse</servlet-name>
+            <url-pattern>/AfisareSurse</url-pattern>
+        </servlet-mapping>
+        <servlet-mapping>
+            <servlet-name>AdaugareComponenta</servlet-name>
+            <url-pattern>/AdaugareComponenta</url-pattern>
+        </servlet-mapping>
+        
+    </session-config>
+</web-app>
