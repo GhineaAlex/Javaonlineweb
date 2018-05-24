@@ -58,22 +58,23 @@ public class ComponentaServlet extends HttpServlet {
             out.println("</head>");
             
             out.println("<body>");
-            out.println("<div id=\"wrapper\">");
-            out.println("<div class=\"menuzone\">");
-            out.println("<div class=\"topMenu\">");
-            out.println("<ul>");
-            out.println("<li class=\"first\">");
-            out.println("<a class=\"current\" href=\"#\">Home");
-            out.println("</a>");
-            out.println("</li>");
-
-            out.println("</ul>");
-            out.println("</div>");
-            out.println("<div class=\"clear\">");
-            out.println("</div");
-            out.println("</div>");
-            out.println("<div class=\"clear\">");
-            out.println("</div>");
+              out.println("<div id=\"wrapper\">");
+               out.println("<div class=\"menuzone\">");
+                out.println("<div class=\"topMenu\">");
+                out.println("<ul>");
+                    out.println("<li class=\"first\">");
+                        out.println("<a class=\"current\" href=\"#\">Home");
+                        out.println("</a>");
+                    out.println("</li>");
+                out.println("</ul>");
+            
+                out.println("</div>");
+                out.println("<div class=\"clear\">");
+               out.println("</div");
+              out.println("</div>");
+                out.println("<div class=\"clear\">");
+             out.println("</div>");
+             
             out.println("<div id=\"header\">");
             out.println("<div id=\"logo\">");
             out.println("</div>");

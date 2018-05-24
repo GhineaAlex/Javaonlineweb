@@ -123,7 +123,7 @@
                     <td>
                         <form action ="AdaugareStoc" method="post">
                             <input type ="hidden" name="cod" value=<%=h.getCodProdus()%> />
-                            <button type="submit">Adaugare Stoc</button>
+                                <button type="submit">Adauga</button>
                         </form>
                     </td>
                     <td>
